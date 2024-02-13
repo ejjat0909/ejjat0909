@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejjat0909 
 - 👀 I’m interested in Flutter Framework
-- 🌱 I’m currently learning flutter and laravel
-- 💞️ I’m looking to collaborate on Flutter Front-End
+- 🌱 Currently working as a Laravel Web Developer and Flutter Developer
+- 💞️ Manager in Mobile Application Development
 - 📫 How to reach me? Contact me via email izzatnick123@gmail.com
 
 <!---
