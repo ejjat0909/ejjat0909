@@ -10,5 +10,31 @@
 ejjat0909/ejjat0909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejjat0909&theme=tokyonight" alt="ejjat0909" /></p>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ejjat0909&theme=highcontrast" alt="ejjat0909"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejjat0909&hide=html&layout=compact&theme=merko"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ejjat0909&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
