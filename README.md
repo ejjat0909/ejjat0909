@@ -1,5 +1,16 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ejjat0909&label=Profile%20views&color=0e75b6&style=plastic" alt="ejjat0909" /> </p>
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/ejjat0909/count.svg"
+    alt="Visitor count"
+  />
+</p>
+
 - 👋 Hi, I’m @ejjat0909 
 - 👀 I’m interested in Flutter Framework
 - 🌱 Currently working as a Laravel Web Developer and Flutter Developer
