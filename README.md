@@ -22,7 +22,7 @@ ejjat0909/ejjat0909 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-![snake gif](https://github.com/ejjat0909/ejjat0909/blob/output/github-contribution-grid-snake.gif)
+
 <table>
   <tr>
     <td>
@@ -49,3 +49,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+
+
+
+![snake gif](https://github.com/ejjat0909/ejjat0909/blob/output/github-contribution-grid-snake.gif)
