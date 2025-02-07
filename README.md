@@ -22,9 +22,7 @@ ejjat0909/ejjat0909 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejjat0909&layout=compact&theme=dracula" />
-</p>
+ 
 <table>
   <tr>
     <td>
