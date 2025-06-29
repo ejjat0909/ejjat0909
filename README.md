@@ -41,10 +41,6 @@
 <h3 align="left">Support me 💞️:</h3>
 <p><a href="https://www.buymeacoffee.com/ejjat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ejjat" /></a></p><br><br>
 <br>
-<div align="center">
-  
- ![snake gif](https://github.com/ejjat0909/ejjat0909/blob/output/github-snake-dark.svg)
-</div>
   
 <br>
 <table>
