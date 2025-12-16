@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me? **Contact me via email izzat@mahirandigital.com**
+- 📫 How to reach me? **Contact me via email mizzat0909@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
