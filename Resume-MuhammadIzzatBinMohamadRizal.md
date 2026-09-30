@@ -18,6 +18,7 @@ Universiti Malaysia Pahang
 ## WORKING EXPERIENCE
 
 **Full Stack Senior Developer** — December 2025 until present
+
 Cloone Corporation Sdn Bhd
 - Involved in both web and mobile application development
 - Collaborate with the team on feature delivery and code review
@@ -25,23 +26,27 @@ Cloone Corporation Sdn Bhd
 - Maintain code quality and code architecture
 
 **Head of Department Mobile Application Development** — January 2023 until Nov 2025
+
 Mahiran Digital Sdn Bhd
 - Overseeing the management of the mobile development department
 - Ensuring efficient workflow in the office
 - Conducting meeting with the project client
 
 **Junior Laravel Developer** — August 2023 until Nov 2025
+
 Mahiran Digital Sdn Bhd
 - Define all the data dictionaries and designed the web application interface
 - Design the interface and the functionality of the mobile application
 - Debugging the web app
 
 **Senior Flutter Developer** — January 2023 until Nov 2025
+
 Mahiran Digital Sdn Bhd
 - Managing and handling the mobile team's project to distribute to the employees
 - Helping the junior developer for the mobile application development
 
 **Junior Flutter Developer** — July 2021 until Dec 2022
+
 Mahiran Digital Sdn Bhd
 - Designed the mobile applications interface
 - Developed the connection of the interface with the API Hosting
