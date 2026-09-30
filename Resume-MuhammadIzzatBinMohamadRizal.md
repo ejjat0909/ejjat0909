@@ -59,6 +59,7 @@ Flutter Dart, SQL, JSON, Laravel, Git, Php, Figma, Photoshop
 ## PROJECTS
 
 ### POS System Mobile Application for Myzstech Sdn Bhd
+![POS System](images/image3.png)
 A pos system software for managing sales, payments and restaurants
 - Design the UI/UX, implement local database and live update using pusher service
 - Monthly meeting with the client for progress update
@@ -67,6 +68,7 @@ Stack: Flutter, Postman, PHP, Pusher
 Status: The project is still in the development
 
 ### Website Based Registration System for IFCEM 2024
+![IFCEM Registration](images/image4.jpeg)
 A web application for registration with admin panel for BOMBA event in 2024
 - Design the interface, data dictionary and functionality of the web application
 - Weekly meeting with BOMBA for progress update
@@ -75,6 +77,7 @@ Stack: Laravel, PHP, MySQL
 Status: The system has been closed due to expired
 
 ### AUF Consortium Mobile Application System (AUFMBZ)
+![AUFMBZ](images/image5.jpeg)
 Admin system and mobile app system for user to record and track their sales, downlines and more.
 - Design the interface and the functionality of the mobile application
 - Monthly meeting with AUFMBZ staff for progress update
@@ -84,6 +87,7 @@ Stack: Flutter, MySQL, Web API, Pusher, Firebase Cloud Messaging
 Status: The project has been closed due to client problem
 
 ### Private Nurse to Home (Nurse2u)
+![Nurse2u](images/image6.png)
 Mobile app system for client to hire a nurse for their patient, to seek job for nurse and to record and track their job, patients, client, nurse and more.
 - Design the interface and the functionality of the mobile application
 - Upload the app to the Play Store and Apps Store
@@ -92,6 +96,7 @@ Stack: Flutter, MySQL, Web API, Pusher, Firebase Cloud Messaging
 Link: https://play.google.com/store/apps/details?id=com.nurse2u.asia&hl=en&pli=1
 
 ### FoodD
+![FoodD](images/image7.png)
 Mobile app system for student and food seller and rider to buy food, sell food, and deliver food around university campus
 - Load the webview in the app that made by the client
 - Implement foreground and background notification from the webview
@@ -121,6 +126,7 @@ Mobile app system for user to encrypt their image using watermark key algorithm
 Stack: Flutter, MySQL, Web API
 
 ### METIS
+![METIS](images/image8.png)
 Mobile app for contractor that work with Syarikat Air Negeri Sembilan (SAINS) to manage pipes around Negeri Sembilan
 - Update the interface and the functionality of the mobile app
 - Upload the app to the Play store and the Apps Store
@@ -129,6 +135,7 @@ Stack: Flutter, MySQL
 Link: https://play.google.com/store/apps/details?id=com.metis.sains.metis_sains&hl=en
 
 ### Fire Audit
+![Fire Audit](images/image9.png)
 Mobile app system for fire contractor and building owner to service and keep record tracking of fire extinguisher and fire equipment system using NFC and OCR Image
 - Design the interface and the functionality of the mobile application
 - Offline database for fire contractor to do the inspection
