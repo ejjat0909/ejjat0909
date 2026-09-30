@@ -19,7 +19,7 @@ Universiti Malaysia Pahang
 
 **Full Stack Senior Developer** — December 2025 until present
 Cloone Corporation Sdn Bhd
-- Full stack development on cloone360-web (Laravel + React)
+- Involved in both web and mobile application development
 - Collaborate with the team on feature delivery and code review
 - Deploy and maintain staging/production environments
 
