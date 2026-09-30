@@ -55,14 +55,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=ejjat0909&theme=highcontrast" alt="ejjat0909"
+        src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ejjat0909&theme=highcontrast" alt="ejjat0909"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejjat0909&hide=html&layout=compact&theme=merko"
+        src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ejjat0909&hide=html&layout=compact&theme=merko"
         alt="Github Stats"
       />
     </td>
