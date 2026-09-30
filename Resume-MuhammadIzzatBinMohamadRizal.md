@@ -22,6 +22,7 @@ Cloone Corporation Sdn Bhd
 - Involved in both web and mobile application development
 - Collaborate with the team on feature delivery and code review
 - Deploy and maintain staging/production environments
+- Maintain code quality and code architecture
 
 **Head of Department Mobile Application Development** — January 2023 until Nov 2025
 Mahiran Digital Sdn Bhd
