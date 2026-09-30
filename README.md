@@ -1,4 +1,11 @@
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ejjat0909/ejjat0909/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ejjat0909/ejjat0909/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/ejjat0909/ejjat0909/output/github-snake.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Izzat Rizal</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
